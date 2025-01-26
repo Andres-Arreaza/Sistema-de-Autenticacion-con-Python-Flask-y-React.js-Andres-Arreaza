@@ -1,3 +1,22 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+footer {
+    background: rgb(40, 40, 48);
+    color: #fff;
+    padding: 5px 0;
+    margin-top: 109px;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+}
+  
+.footer p {
+    margin-top: 10px;
+}
+.footer a {
+    color: #278cff;
+}
+  
+.footer a:hover {
+    text-decoration: underline;
+}
